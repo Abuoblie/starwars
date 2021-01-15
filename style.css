@@ -15,8 +15,8 @@ body {
   }
   .manageTitle { 
     position: absolute;
-    top: 400px;
-    left: 650px;
+    top: 200px;
+    left: 280px;
     z-index: 1;
     text-align: center;
     margin: 7%;
@@ -35,8 +35,8 @@ body {
 }
 .managePhoto {
     position: absolute;
-    top: 550px;
-    left: 1100px;
+    top: 200px;
+    left: 500px;
     opacity: 0;
     animation: outscaling 7s ease-in-out;
 }
