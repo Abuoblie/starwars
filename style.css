@@ -23,7 +23,7 @@ body {
     font-weight: lighter;
     color: dodgerblue;
     opacity: 0;
-    animation: opac 5s ease-in-out;   
+    animation: opac 10s ease-in-out;   
 }
 
 @keyframes opac {
@@ -38,7 +38,7 @@ body {
     top: 200px;
     left: 500px;
     opacity: 0;
-    animation: outscaling 12s ease-in-out;
+    animation: outscaling 15s ease-in-out;
 }
 @keyframes outscaling{
     0%{ transform: scale(8); opacity: 0;}
